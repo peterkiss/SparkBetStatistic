@@ -1,0 +1,34 @@
+Sport: Tennis; Time: Wed May 20 15:30:00 CEST 2015; Event: Jung v Cecchinato; Favorite: Marco Cecchinato   size:5.0 Price: 1.11 Jason Jung   size:15.38 Price: 8.0 
+Sport: Tennis; Time: Wed May 20 13:00:00 CEST 2015; Event: Duque Marino v Abduraimova; Favorite: Mariana Duque Marino   size:2.55 Price: 1.12 Nigina Abduraimova   size:21.77 Price: 6.6 
+Sport: Tennis; Time: Wed May 20 14:30:00 CEST 2015; Event: T Pereira v Foretz; Favorite: Teliana Pereira   size:53.41 Price: 1.13 Stephanie Foretz   size:26.65 Price: 6.2 
+Sport: Soccer; Time: Wed May 20 18:00:00 CEST 2015; Event: Dinamo Kiev v Olimpik Donetsk; Favorite: Dinamo Kiev   size:138.42 Price: 1.13 The Draw   size:3.83 Price: 8.0 Olimpik Donetsk   size:11.06 Price: 12.0 
+Sport: Tennis; Time: Wed May 20 14:30:00 CEST 2015; Event: Dushevina v Ostapenko; Favorite: Jelena Ostapenko   size:1186.58 Price: 1.13 Vera Dushevina   size:6.99 Price: 5.9 
+Sport: Tennis; Time: Wed May 20 14:30:00 CEST 2015; Event: El Tabakh v Pous-Tio; Favorite: Laura Pous-Tio   size:48.63 Price: 1.14 Heidi El Tabakh   size:34.21 Price: 5.9 
+Sport: Tennis; Time: Wed May 20 13:00:00 CEST 2015; Event: Krejcikova v Botto; Favorite: Barbora Krejcikova   size:998.0 Price: 1.14 Bianca Botto   size:7.37 Price: 5.8 
+Sport: Soccer; Time: Wed May 20 12:00:00 CEST 2015; Event: FK H-Z Uzh. U19 v FC Vorskla Poltava U19; Favorite: FC Vorskla Poltava U19   size:5.26 Price: 1.14 The Draw   size:5.25 Price: 5.2 FK H-Z Uzh. U19   size:4.78 Price: 8.2 
+Sport: Soccer; Time: Wed May 20 18:00:00 CEST 2015; Event: AEK v Olympiakos Volou; Favorite: AEK   size:24.37 Price: 1.15 The Draw   size:5.64 Price: 5.0 Olympiakos Volou   size:2.0 Price: 15.0 
+Sport: Tennis; Time: Wed May 20 16:15:00 CEST 2015; Event: Rojer/Tecau v Maytin/Molteni; Favorite: Rojer/Tecau   size:5.86 Price: 1.15 Maytin/Molteni   size:2.55 Price: 4.5 
+Sport: Tennis; Time: Wed May 20 14:30:00 CEST 2015; Event: Coric v G Mina; Favorite: Borna Coric   size:1617.62 Price: 1.16 Gianni Mina   size:25.84 Price: 6.4 
+Sport: Tennis; Time: Wed May 20 15:30:00 CEST 2015; Event: S Wawrinka v Rosol; Favorite: Stan Wawrinka   size:175.86 Price: 1.16 Lukas Rosol   size:41.7 Price: 7.0 
+Sport: Tennis; Time: Wed May 20 11:30:00 CEST 2015; Event: Kulichkova v Y Xu; Favorite: Elizaveta Kulichkova   size:821.88 Price: 1.17 Yifan Xu   size:4.13 Price: 5.3 
+Sport: Soccer; Time: Wed May 20 12:00:00 CEST 2015; Event: 1. FK Pribram U19 v FK Pardubice U19; Favorite: 1. FK Pribram U19   size:15.72 Price: 1.19 The Draw   size:5.9 Price: 6.2 FK Pardubice U19   size:2.0 Price: 8.0 
+Sport: Tennis; Time: Wed May 20 11:30:00 CEST 2015; Event: Paszek v S Hsieh; Favorite: Su Wei Hsieh   size:5.0 Price: 1.2 Tamira Paszek   size:4.98 Price: 4.6 
+Sport: Tennis; Time: Wed May 20 10:00:00 CEST 2015; Event: K Zhang v Ormaechea; Favorite: Paula Ormaechea   size:6.0 Price: 1.21 Kai Lin Zhang   size:24.3 Price: 5.2 
+Sport: Soccer; Time: Wed May 20 19:00:00 CEST 2015; Event: BFC Dynamo v SV Tasmania Berlin; Favorite: BFC Dynamo   size:5.98 Price: 1.21 The Draw   size:12.42 Price: 4.6 SV Tasmania Berlin   size:11.2 Price: 5.1 
+Sport: Tennis; Time: Wed May 20 17:15:00 CEST 2015; Event: Ramos-Vinolas v B Becker; Favorite: Albert Ramos-Vinolas   size:172.63 Price: 1.21 Benjamin Becker   size:72.22 Price: 5.5 
+Sport: Basketball; Time: Wed May 20 17:30:00 CEST 2015; Event: Lietuvos Rytas v Neptunas; Favorite: Lietuvos Rytas   size:5.93 Price: 1.22 Neptunas   size:7.72 Price: 3.85 
+Sport: Soccer; Time: Thu May 21 03:00:00 CEST 2015; Event: Vasco da Gama v Cuiaba; Favorite: Vasco da Gama   size:2.64 Price: 1.22 The Draw   size:158.62 Price: 5.6 Cuiaba   size:5.56 Price: 9.2 
+Sport: Tennis; Time: Wed May 20 10:00:00 CEST 2015; Event: Kuwata v Haddad Maia; Favorite: Beatriz Haddad Maia   size:2.54 Price: 1.23 Hiroko Kuwata   size:14.47 Price: 4.8 
+Sport: Tennis; Time: Wed May 20 13:00:00 CEST 2015; Event: Tan v Min; Favorite: Grace Min   size:2.55 Price: 1.24 Harmony Tan   size:61.84 Price: 5.0 
+Sport: Tennis; Time: Wed May 20 17:45:00 CEST 2015; Event: G Simon v Duckworth; Favorite: Gilles Simon   size:196.19 Price: 1.25 James Duckworth   size:5.0 Price: 4.9 
+Sport: Tennis; Time: Wed May 20 10:00:00 CEST 2015; Event: Gasparyan v Vogt; Favorite: Margarita Gasparyan   size:754.14 Price: 1.25 Stephanie Vogt   size:16.5 Price: 4.3 
+Sport: Tennis; Time: Wed May 20 10:00:00 CEST 2015; Event: Mayr-Achleitner v Andrianjafitrimo; Favorite: Patricia Mayr-Achleitner   size:8.38 Price: 1.26 Tessah Andrianjafitrimo   size:16.93 Price: 3.85 
+Sport: Tennis; Time: Wed May 20 11:00:00 CEST 2015; Event: Klemenschits/Lottner v Chan/Medina Garrigues; Favorite: Chan/Medina Garrigues   size:2.55 Price: 1.26 Klemenschits/Lottner   size:4.77 Price: 3.35 
+Sport: Tennis; Time: Wed May 20 11:30:00 CEST 2015; Event: Y Duan v Kan; Favorite: Victoria Kan   size:8.71 Price: 1.26 Duan Yingying   size:5.86 Price: 3.85 
+Sport: Soccer; Time: Wed May 20 20:00:00 CEST 2015; Event: Dinamo Zagreb v RNK Split; Favorite: Dinamo Zagreb   size:138.31 Price: 1.26 The Draw   size:6.34 Price: 6.4 RNK Split   size:2.76 Price: 12.5 
+Sport: Basketball; Time: Wed May 20 17:45:00 CEST 2015; Event: Darussafaka v Trabzonspor; Favorite: Darussafaka   size:6.11 Price: 1.27 Trabzonspor   size:26.52 Price: 4.1 
+Sport: Tennis; Time: Wed May 20 15:30:00 CEST 2015; Event: Molchanov v Marchenko; Favorite: Illya Marchenko   size:2.55 Price: 1.27 Denys Molchanov   size:4.36 Price: 4.1 
+Sport: Tennis; Time: Wed May 20 14:00:00 CEST 2015; Event: Clezar v Saville; Favorite: Guilherme Clezar   size:2.55 Price: 1.28 Luke Saville   size:9.44 Price: 3.9 
+Sport: Tennis; Time: Wed May 20 10:00:00 CEST 2015; Event: Cepelova v Vasylyeva; Favorite: Jana Cepelova   size:133.79 Price: 1.28 Anastasiya Vasylyeva   size:10.16 Price: 4.1 
+Sport: Tennis; Time: Wed May 20 11:00:00 CEST 2015; Event: Emmrich/Siljestrom v Nestor/Peya; Favorite: Nestor/Peya   size:160.59 Price: 1.28 Emmrich/Siljestrom   size:2.29 Price: 3.25 
+Sport: Tennis; Time: Wed May 20 10:00:00 CEST 2015; Event: De Bernardi v Larcher de Brito; Favorite: Michelle Larcher de Brito   size:5.35 Price: 1.29 Clothilde De Bernardi   size:10.59 Price: 4.3 

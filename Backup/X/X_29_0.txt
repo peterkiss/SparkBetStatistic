@@ -1,0 +1,4 @@
+1.120305338, Sport: ,Tennis, Time: ,Sat Aug 29 01:00:00 CEST 2015, Time: ,Sat Aug 29 01:00:00 CEST 2015, Event: ,Jaziri v K Anderson, Favorite: ,Kevin Anderson, 2519549   size:6954.13,Price: ,1.18,Malek Jaziri, 5776215   size:385.41,Price: ,6.4,
+1.120279558, Sport: ,Baseball, Time: ,Sat Aug 29 01:10:00 CEST 2015, Time: ,Sat Aug 29 01:10:00 CEST 2015, Event: ,BOS @ NYM, Favorite: ,NY Mets (M Harvey), 6551353   size:547.98,Price: ,1.54,Boston (H Owens), 10111929   size:297.48,Price: ,2.76,
+1.120279545, Sport: ,Baseball, Time: ,Sat Aug 29 01:07:00 CEST 2015, Time: ,Sat Aug 29 01:07:00 CEST 2015, Event: ,DET @ TOR, Favorite: ,Toronto (R Dickey), 7172150   size:35.7,Price: ,1.56,Detroit (M Boyd), 10118589   size:68.81,Price: ,2.78,
+1.120171817, Sport: ,Basketball, Time: ,Sat Aug 29 04:00:00 CEST 2015, Time: ,Sat Aug 29 04:00:00 CEST 2015, Event: ,San Antonio @ Seattle, Favorite: ,Seattle, 13130   size:2.55,Price: ,1.57,San Antonio, 13121   size:36.89,Price: ,2.54,

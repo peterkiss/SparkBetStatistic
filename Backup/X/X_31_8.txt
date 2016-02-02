@@ -1,0 +1,21 @@
+Sport: Soccer; Time: Sun May 31 15:30:00 CEST 2015; Event: KFUM Oslo v Harstad; Favorite: KFUM Oslo   size:42.76 Price: 1.12 The Draw   size:13.8 Price: 5.7 Harstad   size:9.68 Price: 8.6 
+Sport: Volleyball; Time: Sun May 31 16:00:00 CEST 2015; Event: Netherlands v Spain; Favorite: Netherlands   size:5.55 Price: 1.12 Spain   size:2.0 Price: 6.8 
+Sport: Tennis; Time: Sun May 31 12:30:00 CEST 2015; Event: Nishikori v Gabashvili; Favorite: Kei Nishikori   size:656.41 Price: 1.12 Teymuraz Gabashvili   size:83.81 Price: 9.0 
+Sport: Gaelic Games; Time: Sun May 31 16:30:00 CEST 2015; Event: Waterford v Tipperary; Favorite: Tipperary   size:2.55 Price: 1.14 Waterford   size:2.62 Price: 7.2 Draw   size:76.84 Price: 14.0 
+Sport: Soccer; Time: Sun May 31 15:00:00 CEST 2015; Event: Edenderry Town v Derry; Favorite: Derry   size:2.55 Price: 1.15 The Draw   size:3.39 Price: 3.5 Edenderry Town   size:2.0 Price: 11.5 
+Sport: Tennis; Time: Sun May 31 12:00:00 CEST 2015; Event: M Kowalczyk v Staubert; Favorite: Pavel Staubert   size:463.82 Price: 1.15 Mateusz Kowalczyk   size:69.57 Price: 3.85 
+Sport: Cricket; Time: Sun May 31 13:00:00 CEST 2015; Event: Pakistan v Zimbabwe (3rd ODI); Favorite: Pakistan   size:2589.04 Price: 1.19 Zimbabwe   size:46.74 Price: 6.0 
+Sport: Rugby League; Time: Sun May 31 16:00:00 CEST 2015; Event: Workington v Halifax; Favorite: Halifax   size:3.78 Price: 1.2 Workington   size:67.11 Price: 5.2 Draw   size:69.57 Price: 32.0 
+Sport: Soccer; Time: Sun May 31 10:30:00 CEST 2015; Event: Tien Giang FC v Long An FC II; Favorite: Tien Giang FC   size:3.6 Price: 1.21 The Draw   size:3.8 Price: 3.6 Long An FC II   size:10.92 Price: 5.0 
+Sport: Tennis; Time: Sun May 31 11:45:00 CEST 2015; Event: Wunner v Reuter; Favorite: Yannik Reuter   size:16.69 Price: 1.22 Matthias Wunner   size:7.38 Price: 4.9 
+Sport: Soccer; Time: Sun May 31 18:30:00 CEST 2015; Event: Debrecen v Gyori; Favorite: Debrecen   size:4.95 Price: 1.22 The Draw   size:4.23 Price: 4.9 Gyori   size:3.71 Price: 6.2 
+Sport: Tennis; Time: Sun May 31 12:15:00 CEST 2015; Event: Licciardi v Garin; Favorite: Christian Garin   size:8.46 Price: 1.22 Pietro Licciardi   size:12.36 Price: 4.7 
+Sport: Basketball; Time: Sun May 31 12:40:00 CEST 2015; Event: Gran Canaria v Real Madrid; Favorite: Real Madrid   size:6.2 Price: 1.22 Gran Canaria   size:354.7 Price: 4.7 
+Sport: Soccer; Time: Sun May 31 20:00:00 CEST 2015; Event: Rosenborg v Tromso; Favorite: Rosenborg   size:1305.73 Price: 1.22 The Draw   size:38.61 Price: 7.8 Tromso   size:117.72 Price: 15.0 
+Sport: Tennis; Time: Sun May 31 16:30:00 CEST 2015; Event: N Ghedin v Molteni; Favorite: Andres Molteni   size:8.46 Price: 1.23 Nicola Ghedin   size:10.89 Price: 4.6 
+Sport: Volleyball; Time: Sun May 31 15:00:00 CEST 2015; Event: Brazil v Serbia; Favorite: Brazil   size:222.0 Price: 1.23 Serbia   size:52.96 Price: 4.5 
+Sport: Tennis; Time: Sun May 31 11:00:00 CEST 2015; Event: Bryan/Bryan v Chardy/Kubot; Favorite: Bryan/Bryan   size:423.41 Price: 1.24 Chardy/Kubot   size:27.18 Price: 4.7 
+Sport: Soccer; Time: Sun May 31 15:00:00 CEST 2015; Event: Georgia U19 v Portugal U19; Favorite: Portugal U19   size:2.1 Price: 1.24 The Draw   size:17.62 Price: 4.2 Georgia U19   size:13.0 Price: 6.0 
+Sport: Soccer; Time: Sun May 31 12:00:00 CEST 2015; Event: Spain U19 v Turkey U19; Favorite: Spain U19   size:13.96 Price: 1.27 The Draw   size:19.72 Price: 4.5 Turkey U19   size:14.78 Price: 6.0 
+Sport: Basketball; Time: Mon Jun 01 02:30:00 CEST 2015; Event: Gecr Indalo v Boca Jrs; Favorite: Gecr Indalo   size:2.55 Price: 1.28 Boca Jrs   size:6.85 Price: 4.0 
+Sport: Tennis; Time: Sun May 31 10:00:00 CEST 2015; Event: Giustino v R Kern; Favorite: Lorenzo Giustino   size:2.55 Price: 1.29 Robin Kern   size:20.31 Price: 3.6 

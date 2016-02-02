@@ -1,0 +1,2 @@
+1.119008390, Sport: ,Basketball, Time: ,Sun Jun 14 21:00:00 CEST 2015, Time: ,Sun Jun 14 21:00:00 CEST 2015, Event: ,Minnesota @ Phoenix, Favorite: ,Minnesota, 13118   size:138.14,Price: ,1.26,Phoenix, 13128   size:29.9,Price: ,4.2,
+1.119040566, Sport: ,Snooker, Time: ,Mon Jun 15 08:30:00 CEST 2015, Time: ,Mon Jun 15 08:30:00 CEST 2015, Event: ,England v Thailand, Favorite: ,England, 20130   size:5.0,Price: ,1.32,Thailand, 20133   size:5.0,Price: ,3.7,

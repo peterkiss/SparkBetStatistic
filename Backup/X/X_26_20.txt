@@ -1,0 +1,3 @@
+1.119149703, Sport: ,Basketball, Time: ,Sat Jun 27 02:00:00 CEST 2015, Time: ,Sat Jun 27 02:00:00 CEST 2015, Event: ,New York @ Tulsa, Favorite: ,Tulsa, 711056   size:5.05,Price: ,1.24,New York, 13106   size:5.05,Price: ,4.6,
+1.119142901, Sport: ,Boxing, Time: ,Fri Jun 26 22:00:00 CEST 2015, Time: ,Fri Jun 26 22:00:00 CEST 2015, Event: ,Fielding v Vera, Favorite: ,Rocky Fielding, 5404432   size:801.41,Price: ,1.3,Brian Vera, 7644432   size:227.4,Price: ,4.2,Draw, 31162   size:2.8,Price: ,42.0,
+1.119149667, Sport: ,Basketball, Time: ,Sat Jun 27 01:00:00 CEST 2015, Time: ,Sat Jun 27 01:00:00 CEST 2015, Event: ,Los Angeles @ Connecticut, Favorite: ,Connecticut, 332194   size:134.03,Price: ,1.35,Los Angeles, 3213264   size:2.57,Price: ,3.55,

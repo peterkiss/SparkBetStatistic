@@ -1,0 +1,2 @@
+1.119391083, Sport: ,Tennis, Time: ,Sun Jul 05 14:00:00 CEST 2015, Time: ,Sun Jul 05 14:00:00 CEST 2015, Event: ,Giustino v Miccini, Favorite: ,Lorenzo Giustino, 7534093   size:8.85,Price: ,1.15,Giacomo Miccini, 8698949   size:60.91,Price: ,5.6,
+1.119387600, Sport: ,Tennis, Time: ,Sun Jul 05 11:00:00 CEST 2015, Time: ,Sun Jul 05 11:00:00 CEST 2015, Event: ,Kubler v Heller, Favorite: ,Jason Kubler, 4448756   size:2.56,Price: ,1.25,Peter Heller, 7234042   size:3.73,Price: ,3.55,

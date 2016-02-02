@@ -1,0 +1,4 @@
+1.119149826, Sport: ,Basketball, Time: ,Mon Jun 29 01:00:00 CEST 2015, Time: ,Mon Jun 29 01:00:00 CEST 2015, Event: ,Seattle @ Tulsa, Favorite: ,Tulsa, 711056   size:2.57,Price: ,1.13,Seattle, 13130   size:2.7,Price: ,6.8,
+1.119160583, Sport: ,Basketball, Time: ,Sun Jun 28 19:00:00 CEST 2015, Time: ,Sun Jun 28 19:00:00 CEST 2015, Event: ,Egypt U19 v Iran U19, Favorite: ,Iran U19, 7375440   size:2.57,Price: ,1.29,Egypt U19, 9607909   size:2.57,Price: ,3.6,
+1.119294491, Sport: ,Basketball, Time: ,Sun Jun 28 19:00:00 CEST 2015, Time: ,Sun Jun 28 19:00:00 CEST 2015, Event: ,Serbia (W) v France (W), Favorite: ,France (W), 6469563   size:5.05,Price: ,1.41,Serbia (W), 6427235   size:15.79,Price: ,3.35,
+1.119201640, Sport: ,Baseball, Time: ,Sun Jun 28 22:05:00 CEST 2015, Time: ,Sun Jun 28 22:05:00 CEST 2015, Event: ,COL @ SF, Favorite: ,San Francisco (M Bumgarner), 4171027   size:943.12,Price: ,1.45,Colorado (K Kendrick), 9378789   size:1879.88,Price: ,3.05,

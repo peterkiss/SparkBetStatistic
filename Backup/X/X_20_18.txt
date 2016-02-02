@@ -1,0 +1,4 @@
+1.119574097, Sport: ,Tennis, Time: ,Tue Jul 21 00:30:00 CEST 2015, Time: ,Tue Jul 21 00:30:00 CEST 2015, Event: ,Bester v Lacko, Favorite: ,Lukas Lacko, 2263634   size:2.55,Price: ,1.25,Philip Bester, 2504191   size:2.55,Price: ,4.3,
+1.119590928, Sport: ,Tennis, Time: ,Mon Jul 20 19:01:00 CEST 2015, Time: ,Mon Jul 20 19:01:00 CEST 2015, Event: ,Gomez v Londero, Favorite: ,Juan Ignacio Londero, 7430086   size:2.87,Price: ,1.33,Alejandro Gomez, 8714009   size:27.77,Price: ,3.85,
+1.119584076, Sport: ,Tennis, Time: ,Mon Jul 20 20:00:00 CEST 2015, Time: ,Mon Jul 20 20:00:00 CEST 2015, Event: ,Sugita v Barrientos, Favorite: ,Yuichi Sugita, 3374117   size:75.92,Price: ,1.41,Nicolas Barrientos, 7083200   size:17.51,Price: ,3.3,
+1.119575342, Sport: ,Tennis, Time: ,Mon Jul 20 21:00:00 CEST 2015, Time: ,Mon Jul 20 21:00:00 CEST 2015, Event: ,Gojowczyk v Halys, Favorite: ,Peter Gojowczyk, 4691416   size:11.77,Price: ,1.43,Quentin Halys, 7287690   size:14.79,Price: ,3.2,

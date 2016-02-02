@@ -1,0 +1,3 @@
+1.119040550, Sport: ,Basketball, Time: ,Fri Jun 05 19:00:00 CEST 2015, Time: ,Fri Jun 05 19:00:00 CEST 2015, Event: ,CSKA Moscow v Khimki, Favorite: ,CSKA Moscow, 266272   size:2.55,Price: ,1.06,Khimki, 2154546   size:3.14,Price: ,7.8,
+1.118839172, Sport: ,Basketball, Time: ,Sat Jun 06 02:00:00 CEST 2015, Time: ,Sat Jun 06 02:00:00 CEST 2015, Event: ,Tulsa @ Minnesota, Favorite: ,Minnesota, 13118   size:139.51,Price: ,1.08,Tulsa, 711056   size:3.11,Price: ,8.0,
+1.119044394, Sport: ,Basketball, Time: ,Sat Jun 06 03:00:00 CEST 2015, Time: ,Sat Jun 06 03:00:00 CEST 2015, Event: ,Quimsa v Atenas, Favorite: ,Quimsa, 6243645   size:21.06,Price: ,1.17,Atenas, 6719082   size:5.99,Price: ,5.8,

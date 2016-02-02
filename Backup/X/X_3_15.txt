@@ -1,0 +1,6 @@
+Sport: Tennis; Time: Wed Jun 03 17:00:00 CEST 2015; Event: Hesse v Romeo; Favorite: Amandine Hesse   size:9.72 Price: 1.11 Caroline Romeo   size:27.33 Price: 8.4 
+Sport: Tennis; Time: Wed Jun 03 19:00:00 CEST 2015; Event: M Baghdatis v Ma Willis; Favorite: Marcos Baghdatis   size:1443.73 Price: 1.13 Marcus Willis   size:39.22 Price: 8.0 
+Sport: Basketball; Time: Wed Jun 03 20:05:00 CEST 2015; Event: Maccabi Tel Aviv v Hapoel Eilat; Favorite: Maccabi Tel Aviv   size:18.95 Price: 1.15 Hapoel Eilat   size:93.77 Price: 6.2 
+Sport: Basketball; Time: Wed Jun 03 19:00:00 CEST 2015; Event: CSKA Moscow v Khimki; Favorite: CSKA Moscow   size:2.55 Price: 1.16 Khimki   size:2.0 Price: 6.0 
+Sport: Handball; Time: Wed Jun 03 20:15:00 CEST 2015; Event: Hannover Burgdorf v Kiel; Favorite: Kiel   size:8.49 Price: 1.16 Hannover Burgdorf   size:3.35 Price: 8.8 Draw   size:3.19 Price: 11.5 
+Sport: Tennis; Time: Thu Jun 04 09:30:00 CEST 2015; Event: Soeda v Cheong- Kim; Favorite: Go Soeda   size:2.55 Price: 1.16 Cheong-Eui Kim   size:2.55 Price: 5.8 

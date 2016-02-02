@@ -30,7 +30,9 @@ public class Main {
 				.set("spark.executor.memory", "1g");//.setMaster(master);
 		JavaSparkContext spark = new JavaSparkContext(conf);
 		//c:\\Users\\kppet\\Documents\\GitHub\\java\\workspace\\SparkBetStatistic\\
-		JavaRDD<String> textFile = spark.textFile("Backup\\");
+		//JavaRDD<String> textFile = spark.textFile("file:///C:/Users/kppet/Documents/GitHub/java/workspace/SparkBetStatistic/Backup//");
+		JavaRDD<String> textFile = spark.textFile("hdfs://localhost:19000/user/kppet/Backup");
+		System.out.println("Count  = "+textFile.count());
 		Scanner in = new Scanner(System.in);
 		Boolean ans = false;
 		Integer choose = 0;
@@ -284,6 +286,7 @@ public class Main {
 		JavaRDD ok = all.filter(new Function<String, Boolean>() {
 			public Boolean call(String s) { return s.contains("ok"); }
 		});
+		
 		Long endTime=System.nanoTime() ;
 
 
@@ -351,7 +354,8 @@ public class Main {
 		Integer winner = winnerCountrByOddsMap.get(odds);
 
 		Long endTime1 = System.nanoTime();
-		System.out.println("Spark: "+sportname+" "+odds.toString() +" "+((double)ok.count()/(double)all.count())+" Elapsed time "+(endTime-startTime)/1000+"ns" );
+		//System.out.println("count of events = "+count);
+		System.out.println("Spark: "+sportname+" "+odds.toString() +" "+((double)ok.count()/(double)all.count())+" eventcount: "+all.count()+" Elapsed time "+(endTime-startTime)/1000+"ns" );
 
 		System.out.println("Native Java: "+sportname+" "+odds.toString() +" "+((double)winner/(double)sum)+" Elapsed time "+(endTime1-startTime1)/1000+"ns.");
 

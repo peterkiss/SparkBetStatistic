@@ -1,0 +1,25 @@
+Sport: Tennis; Time: Wed May 27 13:00:00 CEST 2015; Event: Hingis/Mirza v Goerges/Krejcikova; Favorite: Hingis/Mirza   size:2.62 Price: 1.11 Goerges/Krejcikova   size:4.03 Price: 5.8 
+Sport: Tennis; Time: Wed May 27 11:00:00 CEST 2015; Event: Lim/Thorpe v Knapp/Vinci; Favorite: Knapp/Vinci   size:72.42 Price: 1.12 Lim/Thorpe   size:2.62 Price: 4.4 
+Sport: Tennis; Time: Wed May 27 12:30:00 CEST 2015; Event: Nishikori v Bellucci; Favorite: Kei Nishikori   size:28080.55 Price: 1.12 Thomaz Bellucci   size:144.28 Price: 8.6 
+Sport: Tennis; Time: Wed May 27 11:00:00 CEST 2015; Event: Zheng/Kontinen v De Bernadi/Hamou; Favorite: Zheng/Kontinen   size:5.9 Price: 1.12 De Bernadi/Hamou   size:2.02 Price: 4.4 
+Sport: Tennis; Time: Wed May 27 16:30:00 CEST 2015; Event: A Ivanovic v Doi; Favorite: Ana Ivanovic   size:7141.95 Price: 1.13 Misaki Doi   size:8.98 Price: 8.0 
+Sport: Tennis; Time: Wed May 27 14:00:00 CEST 2015; Event: Arruabarrena/Begu v Arcangioli/Paquet; Favorite: Arruabarrena/Begu   size:2.62 Price: 1.13 Arcangioli/Paquet   size:4.21 Price: 5.2 
+Sport: Soccer; Time: Wed May 27 14:45:00 CEST 2015; Event: Malaysia XI v Tottenham; Favorite: Tottenham   size:108.59 Price: 1.13 The Draw   size:2.82 Price: 10.0 Malaysia XI   size:8.76 Price: 22.0 
+Sport: Tennis; Time: Wed May 27 11:00:00 CEST 2015; Event: Hradecka v Azarenka; Favorite: Victoria Azarenka   size:34778.94 Price: 1.13 Lucie Hradecka   size:110.24 Price: 8.2 
+Sport: Tennis; Time: Wed May 27 11:00:00 CEST 2015; Event: L Safarova v Nara; Favorite: Lucie Safarova   size:2991.34 Price: 1.14 Kurumi Nara   size:127.78 Price: 7.6 
+Sport: Tennis; Time: Wed May 27 14:30:00 CEST 2015; Event: Monfils v Schwartzman; Favorite: Gael Monfils   size:19134.49 Price: 1.14 Diego Sebastian Schwartzman   size:121.91 Price: 7.6 
+Sport: Tennis; Time: Wed May 27 15:30:00 CEST 2015; Event: E Burgos/Souza v Pospisil/Sock; Favorite: Pospisil/Sock   size:5.9 Price: 1.15 E Burgos/Souza   size:2.62 Price: 3.75 
+Sport: Soccer; Time: Wed May 27 17:00:00 CEST 2015; Event: Netherlands Youth v Costa Rica Youth; Favorite: Netherlands Youth   size:2.62 Price: 1.15 The Draw   size:2.36 Price: 3.65 Costa Rica Youth   size:15.44 Price: 6.0 
+Sport: Soccer; Time: Wed May 27 15:00:00 CEST 2015; Event: Lokomotiv Tashkent v FK Navbahor Namangan; Favorite: Lokomotiv Tashkent   size:2.16 Price: 1.15 The Draw   size:2.27 Price: 3.8 FK Navbahor Namangan   size:2.02 Price: 4.3 
+Sport: Tennis; Time: Wed May 27 15:30:00 CEST 2015; Event: Peya/Soares v Seppi/Stakhovsky; Favorite: Peya/Soares   size:5.9 Price: 1.16 Seppi/Stakhovsky   size:4.58 Price: 4.2 
+Sport: Basketball; Time: Wed May 27 20:00:00 CEST 2015; Event: Strasbourg v Chalon Saone; Favorite: Strasbourg   size:6.11 Price: 1.17 Chalon Saone   size:5.58 Price: 5.3 
+Sport: Basketball; Time: Thu May 28 03:00:00 CEST 2015; Event: Houston @ Golden State; Favorite: Golden State   size:9958.34 Price: 1.17 Houston   size:133.4 Price: 6.4 
+Sport: Soccer; Time: Wed May 27 15:00:00 CEST 2015; Event: SK Slavia Praha U21 v 1. FC Slovacko U21; Favorite: SK Slavia Praha U21   size:24.17 Price: 1.18 The Draw   size:7.1 Price: 8.2 1. FC Slovacko U21   size:2.06 Price: 12.0 
+Sport: Tennis; Time: Wed May 27 16:00:00 CEST 2015; Event: Rybarikova v Pennetta; Favorite: Flavia Pennetta   size:4665.52 Price: 1.2 Magdalena Rybarikova   size:121.88 Price: 5.6 
+Sport: Tennis; Time: Wed May 27 14:00:00 CEST 2015; Event: Kalashnikova/Pironkova v Hantuchova/Stosur; Favorite: Hantuchova/Stosur   size:7.03 Price: 1.2 Kalashnikova/Pironkova   size:2.62 Price: 3.95 
+Sport: Tennis; Time: Wed May 27 14:30:00 CEST 2015; Event: Bautista Agut v Rosol; Favorite: Roberto Bautista Agut   size:11165.31 Price: 1.22 Lukas Rosol   size:164.74 Price: 5.3 
+Sport: Tennis; Time: Wed May 27 13:00:00 CEST 2015; Event: Gulbis v Mahut; Favorite: Ernests Gulbis   size:171.31 Price: 1.24 Nicolas Mahut   size:81.61 Price: 4.9 
+Sport: Tennis; Time: Wed May 27 11:00:00 CEST 2015; Event: Krajinovic/Troicki v Bopanna/Mergea; Favorite: Bopanna/Mergea   size:7.14 Price: 1.25 Krajinovic/Troicki   size:26.79 Price: 3.6 
+Sport: Soccer; Time: Wed May 27 14:00:00 CEST 2015; Event: Metallist Kharkiv U19 v FC Karpaty Lviv U19; Favorite: FC Karpaty Lviv U19   size:7.15 Price: 1.27 The Draw   size:2.11 Price: 4.3 Metallist Kharkiv U19   size:10.79 Price: 5.6 
+Sport: Handball; Time: Wed May 27 20:30:00 CEST 2015; Event: Nantes v Cesson Rennes; Favorite: Nantes   size:6.91 Price: 1.29 Cesson Rennes   size:99.81 Price: 4.6 Draw   size:11.34 Price: 9.2 
+Sport: Tennis; Time: Wed May 27 14:30:00 CEST 2015; Event: Fognini v Paire; Favorite: Fabio Fognini   size:1286.29 Price: 1.29 Benoit Paire   size:61.99 Price: 4.3 

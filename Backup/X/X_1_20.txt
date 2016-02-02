@@ -1,0 +1,2 @@
+1.120333849, Sport: ,Tennis, Time: ,Tue Sep 01 22:15:00 CEST 2015, Time: ,Tue Sep 01 22:15:00 CEST 2015, Event: ,Kravchuk v A Mannarino, Favorite: ,Adrian Mannarino, 3066621   size:52.42,Price: ,1.33,Konstantin Kravchuk, 5011822   size:34.51,Price: ,3.95,
+1.120288237, Sport: ,Tennis, Time: ,Tue Sep 01 23:00:00 CEST 2015, Time: ,Tue Sep 01 23:00:00 CEST 2015, Event: ,DomÍnguez Lino v Gibbs, Favorite: ,Nicole Gibbs, 4946628   size:58.35,Price: ,1.36,Lourdes DomÍnguez Lino, 8964880   size:21.16,Price: ,3.6,

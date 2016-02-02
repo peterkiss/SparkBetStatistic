@@ -1,0 +1,1 @@
+1.120304757, Sport: ,Baseball, Time: ,Sat Aug 29 22:05:00 CEST 2015, Time: ,Sat Aug 29 22:05:00 CEST 2015, Event: ,BOS @ NYM, Favorite: ,New York Mets (J deGrom), 8571051   size:285.0,Price: ,1.5,Boston (J Kelly), 8755664   size:5.0,Price: ,2.86,

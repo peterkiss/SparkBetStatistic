@@ -1,0 +1,3 @@
+1.119696522, Sport: ,Tennis, Time: ,Mon Jul 27 22:00:00 CEST 2015, Time: ,Mon Jul 27 22:00:00 CEST 2015, Event: ,Soeda v Dolgopolov, Favorite: ,Alexandr Dolgopolov, 4720522   size:636.52,Price: ,1.19,Go Soeda, 2249835   size:30.0,Price: ,6.0,
+1.119711072, Sport: ,Tennis, Time: ,Mon Jul 27 21:30:00 CEST 2015, Time: ,Mon Jul 27 21:30:00 CEST 2015, Event: ,Sekiguchi v Devvarman, Favorite: ,Somdev Devvarman, 3261618   size:300.0,Price: ,1.35,Shuichi Sekiguchi, 7689554   size:107.45,Price: ,3.55,
+1.119696606, Sport: ,Tennis, Time: ,Mon Jul 27 19:45:00 CEST 2015, Time: ,Mon Jul 27 19:45:00 CEST 2015, Event: ,Ye Lu v Jaziri, Favorite: ,Yen-Hsun Lu, 8287128   size:2637.03,Price: ,1.38,Malek Jaziri, 5776215   size:49.09,Price: ,3.5,

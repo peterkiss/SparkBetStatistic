@@ -1,0 +1,20 @@
+Sport: Tennis; Time: Mon May 18 11:00:00 CEST 2015; Event: St Johnson v Venus; Favorite: Steve Johnson   size:100.0 Price: 1.12 Michael Venus   size:28.12 Price: 8.8 
+Sport: Tennis; Time: Mon May 18 11:00:00 CEST 2015; Event: Gerlach/Rueffer v Chan/Medina Garrigues; Favorite: Chan/Medina Garrigues   size:2.55 Price: 1.13 Gerlach/Rueffer   size:32.03 Price: 5.7 
+Sport: Tennis; Time: Mon May 18 10:00:00 CEST 2015; Event: Milton v Zemlja; Favorite: Grega Zemlja   size:12.05 Price: 1.13 Joshua Milton   size:2.0 Price: 6.6 
+Sport: Basketball; Time: Mon May 18 18:00:00 CEST 2015; Event: Decin v Nymburk; Favorite: Nymburk   size:2.55 Price: 1.14 Decin   size:2.55 Price: 5.9 
+Sport: Tennis; Time: Mon May 18 15:30:00 CEST 2015; Event: Kolar/Skamlova v Groenefeld/Rosolska; Favorite: Groenefeld/Rosolska   size:2.55 Price: 1.16 Kolar/Skamlova   size:34.22 Price: 4.7 
+Sport: Soccer; Time: Mon May 18 18:00:00 CEST 2015; Event: Plzen v Vysocina Jihlava; Favorite: Plzen   size:4281.11 Price: 1.18 The Draw   size:40.59 Price: 8.4 Vysocina Jihlava   size:41.79 Price: 23.0 
+Sport: Soccer; Time: Mon May 18 21:00:00 CEST 2015; Event: Napoli v Cesena; Favorite: Napoli   size:42548.78 Price: 1.19 The Draw   size:130.18 Price: 9.0 Cesena   size:65.86 Price: 20.0 
+Sport: Soccer; Time: Mon May 18 13:00:00 CEST 2015; Event: FK Chertanovo v Fakel; Favorite: Fakel   size:2.55 Price: 1.19 The Draw   size:4.64 Price: 8.4 
+Sport: Tennis; Time: Mon May 18 13:45:00 CEST 2015; Event: Ramos-Vinolas v Matosevic; Favorite: Albert Ramos-Vinolas   size:71.5 Price: 1.23 Marinko Matosevic   size:26.64 Price: 4.6 
+Sport: Soccer; Time: Mon May 18 14:00:00 CEST 2015; Event: 1. FC Slovacko U21 v FK Mlada Boleslav U21; Favorite: FK Mlada Boleslav U21   size:2.55 Price: 1.25 The Draw   size:4.2 Price: 5.0 1. FC Slovacko U21   size:2.0 Price: 8.0 
+Sport: Soccer; Time: Mon May 18 19:00:00 CEST 2015; Event: Fiorentina v Parma; Favorite: Fiorentina   size:1295.9 Price: 1.26 The Draw   size:74.67 Price: 7.2 Parma   size:355.55 Price: 14.5 
+Sport: Soccer; Time: Mon May 18 13:00:00 CEST 2015; Event: AC Sparta Praha U21 v FK Jablonec U21; Favorite: AC Sparta Praha U21   size:10.62 Price: 1.26 The Draw   size:5.25 Price: 5.6 FK Jablonec U21   size:7.49 Price: 6.2 
+Sport: Tennis; Time: Mon May 18 14:00:00 CEST 2015; Event: Falconi v J Jankovic; Favorite: Jelena Jankovic   size:126.86 Price: 1.27 Irina Falconi   size:13.33 Price: 4.3 
+Sport: Tennis; Time: Mon May 18 15:30:00 CEST 2015; Event: Kalashnikova/Rodina v Kuncikova/Stuchla; Favorite: Kalashnikova/Rodina   size:2.55 Price: 1.27 Kuncikova/Stuchla   size:2.55 Price: 3.5 
+Sport: Soccer; Time: Mon May 18 21:00:00 CEST 2015; Event: UCC v Dundalk; Favorite: Dundalk   size:2.42 Price: 1.27 The Draw   size:4.26 Price: 5.3 UCC   size:16.35 Price: 7.0 
+Sport: Tennis; Time: Mon May 18 11:00:00 CEST 2015; Event: Bogdan/Hrdinova v Dzalamidze/Pirazhenka; Favorite: Bogdan/Hrdinova   size:2.55 Price: 1.27 Dzalamidze/Pirazhenka   size:2.55 Price: 3.5 
+Sport: Tennis; Time: Mon May 18 14:00:00 CEST 2015; Event: Knapp/Vinci v Rodionova/Savchuk; Favorite: Knapp/Vinci   size:2.55 Price: 1.27 Rodionova/Savchuk   size:2.55 Price: 3.5 
+Sport: Soccer; Time: Mon May 18 19:00:00 CEST 2015; Event: Besiktas v Torku Konyaspor; Favorite: Besiktas   size:193.38 Price: 1.28 The Draw   size:36.81 Price: 6.6 Torku Konyaspor   size:97.01 Price: 13.0 
+Sport: Tennis; Time: Mon May 18 12:45:00 CEST 2015; Event: Querrey v Bemelmans; Favorite: Sam Querrey   size:20.78 Price: 1.29 Ruben Bemelmans   size:321.84 Price: 4.3 
+Sport: Soccer; Time: Mon May 18 20:00:00 CEST 2015; Event: Arsenal U21 v Wolves U21; Favorite: Arsenal U21   size:8.21 Price: 1.29 The Draw   size:15.46 Price: 3.65 Wolves U21   size:6.54 Price: 6.6 

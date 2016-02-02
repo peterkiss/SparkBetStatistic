@@ -1,0 +1,23 @@
+Sport: Tennis; Time: Sun May 24 15:30:00 CEST 2015; Event: Kukushkin v D Sela; Favorite: Mikhail Kukushkin   size:3421.47 Price: 1.11 Dudi Sela   size:86.83 Price: 9.8 
+Sport: Tennis; Time: Sun May 24 14:45:00 CEST 2015; Event: Giustino v Go Oliveira; Favorite: Lorenzo Giustino   size:2.0 Price: 1.11 Goncalo Oliveira   size:12.35 Price: 5.9 
+Sport: Tennis; Time: Sun May 24 13:00:00 CEST 2015; Event: Mektic v Galdos; Favorite: Nikola Mektic   size:742.08 Price: 1.14 Sergio Galdos   size:66.38 Price: 6.8 
+Sport: Volleyball; Time: Sun May 24 15:00:00 CEST 2015; Event: Estonia v Sweden; Favorite: Estonia   size:1007.43 Price: 1.14 Sweden   size:71.0 Price: 6.0 
+Sport: Tennis; Time: Sun May 24 13:00:00 CEST 2015; Event: Muguruza v Martic; Favorite: Garbine Muguruza   size:60.0 Price: 1.15 Petra Martic   size:14.37 Price: 7.2 
+Sport: Soccer; Time: Sun May 24 12:00:00 CEST 2015; Event: Shakhtar U19 v Dnipro U19; Favorite: Shakhtar U19   size:16.47 Price: 1.16 The Draw   size:5.08 Price: 5.1 Dnipro U19   size:7.71 Price: 7.0 
+Sport: Basketball; Time: Sun May 24 15:00:00 CEST 2015; Event: Galatasaray v Fenerbahce; Favorite: Fenerbahce   size:874.59 Price: 1.17 Galatasaray   size:25.4 Price: 5.4 
+Sport: Soccer; Time: Sun May 24 12:00:00 CEST 2015; Event: Metallist Kharkiv U19 v FC Dynamo Kyiv U19; Favorite: FC Dynamo Kyiv U19   size:2.55 Price: 1.17 The Draw   size:4.7 Price: 5.5 Metallist Kharkiv U19   size:8.99 Price: 6.0 
+Sport: Soccer; Time: Sun May 24 12:15:00 CEST 2015; Event: Stallion FC v JP Voltes FC; Favorite: Stallion FC   size:2.0 Price: 1.18 The Draw   size:10.81 Price: 5.0 JP Voltes FC   size:8.99 Price: 6.0 
+Sport: Soccer; Time: Sun May 24 13:00:00 CEST 2015; Event: FC Svendborg v Kolding Boldklub; Favorite: FC Svendborg   size:3.09 Price: 1.19 The Draw   size:5.52 Price: 5.4 Kolding Boldklub   size:4.69 Price: 7.0 
+Sport: Rugby League; Time: Sun May 24 18:15:00 CEST 2015; Event: Leigh v Featherstone; Favorite: Leigh   size:2.74 Price: 1.19 Featherstone   size:3.78 Price: 5.3 Draw   size:10.42 Price: 28.0 
+Sport: Tennis; Time: Sun May 24 14:00:00 CEST 2015; Event: Linette v Pennetta; Favorite: Flavia Pennetta   size:8250.69 Price: 1.21 Magda Linette   size:5.0 Price: 5.2 
+Sport: Tennis; Time: Sun May 24 16:00:00 CEST 2015; Event: S Johnson v Garcia Lopez; Favorite: Guillermo Garcia Lopez   size:2692.65 Price: 1.21 Steve Johnson   size:29.8 Price: 5.4 
+Sport: Soccer; Time: Sun May 24 20:00:00 CEST 2015; Event: Steaua Bucharest v Botosani; Favorite: Steaua Bucharest   size:259.88 Price: 1.21 The Draw   size:4.2 Price: 7.2 Botosani   size:5.64 Price: 15.0 
+Sport: Basketball; Time: Mon May 25 02:30:00 CEST 2015; Event: Atlanta @ Cleveland; Favorite: Cleveland   size:1904.23 Price: 1.23 Atlanta   size:369.28 Price: 5.0 
+Sport: Rugby Union; Time: Sun May 24 16:30:00 CEST 2015; Event: Gloucester v Connacht; Favorite: Gloucester   size:3.32 Price: 1.24 Connacht   size:219.7 Price: 4.8 Draw   size:14.97 Price: 26.0 
+Sport: Soccer; Time: Sun May 24 17:45:00 CEST 2015; Event: Red Bull Salzburg v Wolfsberger AC; Favorite: Red Bull Salzburg   size:1743.86 Price: 1.24 The Draw   size:48.57 Price: 7.2 Wolfsberger AC   size:9.23 Price: 14.5 
+Sport: Soccer; Time: Sun May 24 13:30:00 CEST 2015; Event: Celtic v Inverness CT; Favorite: Celtic   size:3064.33 Price: 1.25 The Draw   size:168.1 Price: 6.4 Inverness CT   size:10.96 Price: 16.5 
+Sport: Volleyball; Time: Sun May 24 18:00:00 CEST 2015; Event: Belarus (W) v Ukraine (W); Favorite: Belarus (W)   size:2.55 Price: 1.25 Ukraine (W)   size:71.69 Price: 4.2 
+Sport: Soccer; Time: Sun May 24 13:00:00 CEST 2015; Event: FC Zbrojovka Brno U21 v Bohemians 1905 U21; Favorite: FC Zbrojovka Brno U21   size:2.55 Price: 1.25 Bohemians 1905 U21   size:3.53 Price: 4.2 The Draw   size:61.07 Price: 5.2 
+Sport: Cricket; Time: Sun May 24 16:00:00 CEST 2015; Event: Pakistan v Zimbabwe (2nd T20); Favorite: Pakistan   size:676.47 Price: 1.26 Zimbabwe   size:9.54 Price: 4.6 
+Sport: Soccer; Time: Sun May 24 18:00:00 CEST 2015; Event: Chaves v Oliveirense; Favorite: Chaves   size:738.0 Price: 1.27 The Draw   size:13.22 Price: 6.4 Oliveirense   size:20.53 Price: 13.5 
+Sport: Soccer; Time: Mon May 25 00:50:00 CEST 2015; Event: Sportivo San Lorenzo v Cerro Porteno; Favorite: Cerro Porteno   size:3.24 Price: 1.28 The Draw   size:3.64 Price: 4.8 Sportivo San Lorenzo   size:2.16 Price: 9.2 

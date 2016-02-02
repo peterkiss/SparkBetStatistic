@@ -1,0 +1,24 @@
+Sport: Volleyball; Time: Thu May 28 13:30:00 CEST 2015; Event: China (W) v South Korea (W); Favorite: China (W)   size:499.6 Price: 1.11 South Korea (W)   size:99.7 Price: 6.0 
+Sport: Tennis; Time: Thu May 28 11:00:00 CEST 2015; Event: Kvitova v Soler-Espinosa; Favorite: Petra Kvitova   size:305.67 Price: 1.12 Silvia Soler-Espinosa   size:13.74 Price: 9.2 
+Sport: Tennis; Time: Thu May 28 15:00:00 CEST 2015; Event: Gasquet v Berlocq; Favorite: Richard Gasquet   size:19530.69 Price: 1.12 Carlos Berlocq   size:30.44 Price: 9.0 
+Sport: Basketball; Time: Thu May 28 17:30:00 CEST 2015; Event: Panathinaikos v Paok; Favorite: Panathinaikos   size:4.38 Price: 1.13 PAOK   size:5.0 Price: 7.4 
+Sport: Tennis; Time: Thu May 28 12:15:00 CEST 2015; Event: Peya/Soares v Monroe/Sitak; Favorite: Peya/Soares   size:2.55 Price: 1.14 Monroe/Sitak   size:33.96 Price: 4.5 
+Sport: Tennis; Time: Thu May 28 11:00:00 CEST 2015; Event: Goerges v Wozniacki; Favorite: Caroline Wozniacki   size:17898.66 Price: 1.14 Julia Goerges   size:173.01 Price: 7.6 
+Sport: Tennis; Time: Thu May 28 12:15:00 CEST 2015; Event: Hradecka v Azarenka; Favorite: Victoria Azarenka   size:8634.79 Price: 1.14 Lucie Hradecka   size:22.15 Price: 7.2 
+Sport: Tennis; Time: Thu May 28 13:45:00 CEST 2015; Event: Johansson/Razzano v Makarova/Vesnina; Favorite: Makarova/Vesnina   size:2.55 Price: 1.15 Johansson/Razzano   size:72.66 Price: 5.1 
+Sport: Tennis; Time: Thu May 28 11:00:00 CEST 2015; Event: Schiavone v S Kuznetsova; Favorite: Svetlana Kuznetsova   size:70.41 Price: 1.15 Francesca Schiavone   size:8.75 Price: 7.4 
+Sport: Tennis; Time: Thu May 28 11:00:00 CEST 2015; Event: Petkovic v Dominguez Lino; Favorite: Andrea Petkovic   size:882.22 Price: 1.15 Lourdes Dominguez Lino   size:35.7 Price: 7.4 
+Sport: Tennis; Time: Thu May 28 15:00:00 CEST 2015; Event: Lu v Anderson; Favorite: Kevin Anderson   size:499.93 Price: 1.16 Yen-Hsun Lu   size:47.0 Price: 6.8 
+Sport: Soccer; Time: Thu May 28 19:00:00 CEST 2015; Event: Skovde AIK v IFK Skovde; Favorite: Skovde AIK   size:51.05 Price: 1.17 The Draw   size:22.78 Price: 5.2 IFK Skovde   size:2.73 Price: 9.0 
+Sport: Soccer; Time: Thu May 28 19:00:00 CEST 2015; Event: Targu Mures v Otelul Galati; Favorite: Targu Mures   size:800.0 Price: 1.17 The Draw   size:30.36 Price: 7.4 Otelul Galati   size:5.86 Price: 23.0 
+Sport: Soccer; Time: Thu May 28 11:15:00 CEST 2015; Event: Kabuscorp v Pasargad FC; Favorite: Pasargad FC   size:52.71 Price: 1.18 The Draw   size:4.66 Price: 9.4 Kabuscorp   size:17.58 Price: 10.5 
+Sport: Tennis; Time: Thu May 28 13:45:00 CEST 2015; Event: Bacsinszky v Smitkova; Favorite: Timea Bacsinszky   size:10.7 Price: 1.19 Tereza Smitkova   size:2.81 Price: 6.0 
+Sport: Tennis; Time: Thu May 28 11:00:00 CEST 2015; Event: Chan/Davis v Dellacqua/Shvedova; Favorite: Dellacqua/Shvedova   size:7.81 Price: 1.21 Chan/Davis   size:4.62 Price: 4.4 
+Sport: Darts; Time: Thu May 28 18:00:00 CEST 2015; Event: Van Gerwen v Van Barneveld; Favorite: Michael Van Gerwen   size:2.55 Price: 1.23 Raymond Van Barneveld   size:4.44 Price: 4.1 
+Sport: Tennis; Time: Thu May 28 11:00:00 CEST 2015; Event: Garcia/Srebotnik v Jovanovski/Liang; Favorite: Garcia/Srebotnik   size:5.94 Price: 1.24 Jovanovski/Liang   size:2.81 Price: 4.7 
+Sport: Tennis; Time: Thu May 28 13:45:00 CEST 2015; Event: Muguruza/S Navarro v S-Espinosa/T-Flor; Favorite: Muguruza/S Navarro   size:2.55 Price: 1.25 S-Espinosa/T-Flor   size:4.4 Price: 4.2 
+Sport: Tennis; Time: Thu May 28 13:45:00 CEST 2015; Event: Gaio v G Pella; Favorite: Guido Pella   size:7.19 Price: 1.27 Federico Gaio   size:2.78 Price: 4.2 
+Sport: Tennis; Time: Thu May 28 16:30:00 CEST 2015; Event: Hingis/Paes v Kudryavtseva/Cabal; Favorite: Hingis/Paes   size:7.19 Price: 1.27 Kudryavtseva/Cabal   size:2.55 Price: 3.25 
+Sport: Soccer; Time: Thu May 28 17:00:00 CEST 2015; Event: FK Mlada Boleslav U21 v FC Viktoria Plzen U21; Favorite: FK Mlada Boleslav U21   size:2.1 Price: 1.27 The Draw   size:4.22 Price: 5.0 FC Viktoria Plzen U21   size:29.4 Price: 6.0 
+Sport: Soccer; Time: Thu May 28 19:00:00 CEST 2015; Event: CSMS Iasi v Steaua Bucharest; Favorite: Steaua Bucharest   size:1295.39 Price: 1.28 The Draw   size:5.89 Price: 6.4 CSMS Iasi   size:21.05 Price: 13.0 
+Sport: Handball; Time: Thu May 28 18:30:00 CEST 2015; Event: Bjerringbro v Aalborg; Favorite: Bjerringbro   size:30.09 Price: 1.29 Aalborg   size:4.67 Price: 4.7 Draw   size:2.74 Price: 8.8 

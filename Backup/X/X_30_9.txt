@@ -1,0 +1,25 @@
+Sport: Boxing; Time: Sat May 30 23:00:00 CEST 2015; Event: Brook v Gavin; Favorite: Kell Brook   size:763.6 Price: 1.11 Frankie Gavin   size:27.68 Price: 12.5 Draw   size:4.14 Price: 40.0 
+Sport: Soccer; Time: Sat May 30 18:30:00 CEST 2015; Event: Hoverla v Dnipro; Favorite: Dnipro   size:2.65 Price: 1.13 The Draw   size:4.64 Price: 5.7 Hoverla   size:4.04 Price: 10.0 
+Sport: Tennis; Time: Sat May 30 11:00:00 CEST 2015; Event: A Murray v Kyrgios; Favorite: Andy Murray   size:43321.18 Price: 1.13 Nick Kyrgios   size:569.02 Price: 8.2 
+Sport: Basketball; Time: Sat May 30 17:00:00 CEST 2015; Event: Brose v Ratiopharm Ulm; Favorite: Brose   size:2.55 Price: 1.13 Ratiopharm Ulm   size:3.24 Price: 5.9 
+Sport: Handball; Time: Sat May 30 19:00:00 CEST 2015; Event: Flensburg Handewitt v Wetzlar; Favorite: Flensburg Handewitt   size:5.91 Price: 1.14 Wetzlar   size:69.98 Price: 9.6 Draw   size:69.84 Price: 13.0 
+Sport: Soccer; Time: Sat May 30 13:00:00 CEST 2015; Event: Thailand All Stars v Chelsea; Favorite: Chelsea   size:2.65 Price: 1.14 The Draw   size:2.67 Price: 7.2 Thailand All Stars   size:27.83 Price: 15.5 
+Sport: Soccer; Time: Sat May 30 18:30:00 CEST 2015; Event: Shakhtar v Karpaty; Favorite: Shakhtar   size:26.95 Price: 1.15 The Draw   size:8.57 Price: 6.4 Karpaty   size:23.0 Price: 21.0 
+Sport: Soccer; Time: Sat May 30 15:00:00 CEST 2015; Event: Ange IF v Valbo FF; Favorite: Ange IF   size:13.33 Price: 1.15 The Draw   size:13.03 Price: 5.3 Valbo FF   size:9.66 Price: 8.6 
+Sport: Tennis; Time: Sat May 30 11:00:00 CEST 2015; Event: Kichenok/Savchuk v Makarova/Vesnina; Favorite: Makarova/Vesnina   size:35.0 Price: 1.16 Kichenok/Savchuk   size:3.33 Price: 5.2 
+Sport: Soccer; Time: Sat May 30 18:00:00 CEST 2015; Event: Molde v Sandefjord; Favorite: Molde   size:1645.37 Price: 1.2 The Draw   size:16.61 Price: 8.2 Sandefjord   size:7.64 Price: 18.0 
+Sport: Soccer; Time: Sat May 30 11:00:00 CEST 2015; Event: FC Hlucin U19 v FC Banik Ostrava U19; Favorite: FC Banik Ostrava U19   size:3.39 Price: 1.21 The Draw   size:5.62 Price: 3.5 
+Sport: Soccer; Time: Sat May 30 13:00:00 CEST 2015; Event: HIK v Herlev; Favorite: HIK   size:3.61 Price: 1.21 The Draw   size:21.31 Price: 5.2 Herlev   size:8.76 Price: 11.0 
+Sport: Soccer; Time: Sat May 30 17:00:00 CEST 2015; Event: NK Maribor v Koper; Favorite: NK Maribor   size:93.41 Price: 1.22 The Draw   size:2.43 Price: 4.1 Koper   size:12.74 Price: 7.0 
+Sport: Soccer; Time: Sat May 30 17:15:00 CEST 2015; Event: Sparta Prague v Bohemians 1905; Favorite: Sparta Prague   size:639.74 Price: 1.22 The Draw   size:27.74 Price: 7.8 Bohemians 1905   size:2.83 Price: 16.5 
+Sport: Soccer; Time: Sat May 30 21:30:00 CEST 2015; Event: Ath Bilbao v Barcelona; Favorite: Barcelona   size:38177.97 Price: 1.22 The Draw   size:492.85 Price: 8.0 Ath Bilbao   size:8.97 Price: 18.0 
+Sport: Soccer; Time: Sat May 30 19:00:00 CEST 2015; Event: Honved v Lombard Papa; Favorite: Honved   size:43.96 Price: 1.22 The Draw   size:4.59 Price: 7.4 Lombard Papa   size:11.3 Price: 15.0 
+Sport: Basketball; Time: Sat May 30 18:30:00 CEST 2015; Event: Strasbourg v Le Mans; Favorite: Strasbourg   size:305.73 Price: 1.23 Le Mans   size:8.1 Price: 4.5 
+Sport: Soccer; Time: Sat May 30 16:00:00 CEST 2015; Event: Bodens v Solleftea; Favorite: Bodens   size:2.55 Price: 1.23 The Draw   size:22.83 Price: 4.8 Solleftea   size:9.45 Price: 7.8 
+Sport: Basketball; Time: Sat May 30 18:15:00 CEST 2015; Event: Valencia v Bilbao; Favorite: Valencia   size:2.55 Price: 1.23 Bilbao   size:2.55 Price: 4.6 
+Sport: Soccer; Time: Sat May 30 16:00:00 CEST 2015; Event: Dinamo Kiev v Metalurg Z; Favorite: Dinamo Kiev   size:5.1 Price: 1.24 The Draw   size:7.38 Price: 5.3 Metalurg Z   size:4.52 Price: 9.0 
+Sport: Soccer; Time: Sat May 30 16:00:00 CEST 2015; Event: FK Torpedo Vladimir v FK Kolomna; Favorite: FK Torpedo Vladimir   size:2.55 Price: 1.24 The Draw   size:20.0 Price: 3.95 FK Kolomna   size:11.38 Price: 6.4 
+Sport: Basketball; Time: Sat May 30 20:30:00 CEST 2015; Event: Fenerbahce v Pinar Karsiyaka; Favorite: Fenerbahce   size:5.55 Price: 1.27 Pinar Karsiyaka   size:7.55 Price: 4.1 
+Sport: Basketball; Time: Sat May 30 11:00:00 CEST 2015; Event: Kia Sorento v Purefoods Star Hotshots; Favorite: Purefoods Star Hotshots   size:178.99 Price: 1.28 Kia Sorento   size:20.24 Price: 4.0 
+Sport: Soccer; Time: Sat May 30 16:00:00 CEST 2015; Event: Anundsjo v Bergnasets AIK; Favorite: Anundsjo   size:3.2 Price: 1.29 The Draw   size:8.96 Price: 4.2 Bergnasets AIK   size:10.27 Price: 6.6 
+Sport: Soccer; Time: Sat May 30 16:00:00 CEST 2015; Event: Notodden v Drammen; Favorite: Notodden   size:2.0 Price: 1.29 The Draw   size:18.71 Price: 4.8 Drammen   size:16.57 Price: 6.2 

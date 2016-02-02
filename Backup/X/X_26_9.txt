@@ -1,0 +1,25 @@
+Sport: Soccer; Time: Tue May 26 12:15:00 CEST 2015; Event: Global v Laos FC; Favorite: Global   size:2.1 Price: 1.11 The Draw   size:6.69 Price: 5.5 
+Sport: Soccer; Time: Tue May 26 18:15:00 CEST 2015; Event: ASA Tel Aviv Uni (W) v FC Ramat Hasharon (W); Favorite: ASA Tel Aviv Uni (W)   size:2.65 Price: 1.13 The Draw   size:9.17 Price: 5.2 FC Ramat Hasharon (W)   size:4.02 Price: 7.6 
+Sport: Tennis; Time: Tue May 26 15:00:00 CEST 2015; Event: Couacaud/Halys v Bolelli/Fognini; Favorite: Bolelli/Fognini   size:2.55 Price: 1.14 Couacaud/Halys   size:2.55 Price: 4.9 
+Sport: Soccer; Time: Tue May 26 18:00:00 CEST 2015; Event: Parnu Linnameeskond v Nomme Kalju; Favorite: Nomme Kalju   size:5.09 Price: 1.15 The Draw   size:3.88 Price: 7.4 Parnu Linnameeskond   size:28.72 Price: 15.5 
+Sport: Tennis; Time: Tue May 26 15:15:00 CEST 2015; Event: Falconi v Arcangioli; Favorite: Irina Falconi   size:2.83 Price: 1.16 Manon Arcangioli   size:4.99 Price: 6.2 
+Sport: Basketball; Time: Tue May 26 19:00:00 CEST 2015; Event: Panathinaikos v Paok; Favorite: Panathinaikos   size:1768.75 Price: 1.16 PAOK   size:3.98 Price: 5.9 
+Sport: Tennis; Time: Tue May 26 12:15:00 CEST 2015; Event: Becker/Satschko v Dodig/Melo; Favorite: Dodig/Melo   size:2.55 Price: 1.18 Becker/Satschko   size:2.08 Price: 4.4 
+Sport: Basketball; Time: Tue May 26 13:00:00 CEST 2015; Event: NLEX Road Warriors v Talk N Text; Favorite: Talk N Text   size:249.99 Price: 1.2 NLEX Road Warriors   size:11.0 Price: 5.4 
+Sport: Handball; Time: Tue May 26 20:15:00 CEST 2015; Event: Rhein Neckar Lowen v Fuchse Berlin; Favorite: Rhein Neckar Lowen   size:2.75 Price: 1.21 Fuchse Berlin   size:3.75 Price: 7.8 Draw   size:71.42 Price: 11.0 
+Sport: Tennis; Time: Tue May 26 12:15:00 CEST 2015; Event: Chardy v Berrer; Favorite: Jeremy Chardy   size:345.89 Price: 1.21 Michael Berrer   size:4.99 Price: 5.2 
+Sport: Tennis; Time: Tue May 26 12:30:00 CEST 2015; Event: K Knapp v Wozniacki; Favorite: Caroline Wozniacki   size:20273.11 Price: 1.21 Karin Knapp   size:61.6 Price: 5.3 
+Sport: Basketball; Time: Tue May 26 19:00:00 CEST 2015; Event: Nizhny Novgorod v CSKA Moscow; Favorite: CSKA Moscow   size:2.55 Price: 1.22 Nizhny Novgorod   size:2.55 Price: 4.7 
+Sport: Tennis; Time: Tue May 26 11:00:00 CEST 2015; Event: Janowicz v Hamou; Favorite: Jerzy Janowicz   size:17600.6 Price: 1.23 Maxime Hamou   size:161.32 Price: 5.1 
+Sport: Tennis; Time: Tue May 26 11:00:00 CEST 2015; Event: V Pospisil v Sousa; Favorite: Joao Sousa   size:2374.26 Price: 1.24 Vasek Pospisil   size:51.97 Price: 4.9 
+Sport: Tennis; Time: Tue May 26 13:30:00 CEST 2015; Event: Daniell/Darcis v Matkowski/Zimonjic; Favorite: Matkowski/Zimonjic   size:6.4 Price: 1.25 Daniell/Darcis   size:2.13 Price: 3.75 
+Sport: Tennis; Time: Tue May 26 14:00:00 CEST 2015; Event: Lindstedt/Melzer v Monfils/Ouanna; Favorite: Lindstedt/Melzer   size:2.55 Price: 1.25 Monfils/Ouanna   size:2.55 Price: 3.75 
+Sport: Soccer; Time: Tue May 26 17:30:00 CEST 2015; Event: Honka v JaPS; Favorite: Honka   size:2.65 Price: 1.25 The Draw   size:2.01 Price: 4.7 JaPS   size:4.29 Price: 5.3 
+Sport: Cricket; Time: Tue May 26 13:00:00 CEST 2015; Event: Pakistan v Zimbabwe (1st ODI); Favorite: Pakistan   size:5537.01 Price: 1.25 Zimbabwe   size:96.2 Price: 4.8 
+Sport: Tennis; Time: Tue May 26 14:45:00 CEST 2015; Event: M Granollers/M Lopez v Haase/Youzhny; Favorite: M Granollers/M Lopez   size:2.55 Price: 1.26 Haase/Youzhny   size:4.87 Price: 3.95 
+Sport: Tennis; Time: Tue May 26 12:45:00 CEST 2015; Event: S Napolitano v de Bakker; Favorite: Thiemo De Bakker   size:2.61 Price: 1.26 Stefano Napolitano   size:9.5 Price: 4.0 
+Sport: Soccer; Time: Tue May 26 14:00:00 CEST 2015; Event: SFC Opava U19 v SK Slavia Praha U19; Favorite: SK Slavia Praha U19   size:3.04 Price: 1.27 The Draw   size:2.09 Price: 4.6 SFC Opava U19   size:6.2 Price: 6.8 
+Sport: Tennis; Time: Tue May 26 11:00:00 CEST 2015; Event: Bertens v S Kuznetsova; Favorite: Svetlana Kuznetsova   size:184.87 Price: 1.27 Kiki Bertens   size:59.61 Price: 4.6 
+Sport: Tennis; Time: Tue May 26 12:30:00 CEST 2015; Event: Bacsinszky v Arruabarrena; Favorite: Timea Bacsinszky   size:178.12 Price: 1.28 Lara Arruabarrena   size:27.0 Price: 4.1 
+Sport: Basketball; Time: Wed May 27 02:30:00 CEST 2015; Event: Atlanta @ Cleveland; Favorite: Cleveland   size:579.68 Price: 1.28 Atlanta   size:59.94 Price: 4.3 
+Sport: Tennis; Time: Tue May 26 15:00:00 CEST 2015; Event: Dimitrov v Sock; Favorite: Grigor Dimitrov   size:4627.43 Price: 1.28 Jack Sock   size:196.68 Price: 4.4 

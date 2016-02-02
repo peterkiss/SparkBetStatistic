@@ -1,0 +1,1 @@
+1.120342607, Sport: ,Baseball, Time: ,Fri Sep 04 02:10:00 CEST 2015, Time: ,Fri Sep 04 02:10:00 CEST 2015, Event: ,DET @ KC, Favorite: ,Kansas City (E Volquez), 9385643   size:521.0,Price: ,1.6,Detroit (M Boyd), 10118589   size:43.86,Price: ,2.56,

@@ -1,0 +1,20 @@
+Sport: Tennis; Time: Mon Jun 01 12:30:00 CEST 2015; Event: A Murray v Chardy; Favorite: Andy Murray   size:64191.29 Price: 1.11 Jeremy Chardy   size:261.63 Price: 9.6 
+Sport: Tennis; Time: Mon Jun 01 12:30:00 CEST 2015; Event: Setkic v Cecchinato; Favorite: Marco Cecchinato   size:34.66 Price: 1.17 Aldin Setkic   size:6.64 Price: 5.2 
+Sport: Tennis; Time: Mon Jun 01 14:00:00 CEST 2015; Event: Ser Williams v Stephens; Favorite: Serena Williams   size:41897.96 Price: 1.18 Sloane Stephens   size:47.41 Price: 6.4 
+Sport: Tennis; Time: Mon Jun 01 13:30:00 CEST 2015; Event: Kr Pliskova v Dunne; Favorite: Kristyna Pliskova   size:12.37 Price: 1.2 Katy Dunne   size:8.99 Price: 5.0 
+Sport: Soccer; Time: Mon Jun 01 18:00:00 CEST 2015; Event: Levadia Tallinn v Tulevik Viljandi; Favorite: Levadia Tallinn   size:2.55 Price: 1.21 The Draw   size:3.11 Price: 6.6 Tulevik Viljandi   size:5.89 Price: 13.0 
+Sport: Basketball; Time: Mon Jun 01 19:00:00 CEST 2015; Event: Fenerbahce v Pinar Karsiyaka; Favorite: Fenerbahce   size:2.55 Price: 1.21 Pinar Karsiyaka   size:7.0 Price: 5.0 
+Sport: Soccer; Time: Mon Jun 01 13:35:00 CEST 2015; Event: Beijing Guoan v Shanghai Shenxin; Favorite: Beijing Guoan   size:78.29 Price: 1.22 The Draw   size:5.36 Price: 7.0 Shanghai Shenxin   size:6.32 Price: 16.0 
+Sport: Basketball; Time: Mon Jun 01 20:50:00 CEST 2015; Event: Strasbourg v Le Mans; Favorite: Strasbourg   size:2159.97 Price: 1.23 Le Mans   size:11.81 Price: 4.5 
+Sport: Soccer; Time: Mon Jun 01 19:55:00 CEST 2015; Event: Maccabi Tel Aviv v Maccabi Petach Tikva; Favorite: Maccabi Tel Aviv   size:5.54 Price: 1.24 The Draw   size:4.67 Price: 6.6 Maccabi Petach Tikva   size:5.43 Price: 14.0 
+Sport: Tennis; Time: Mon Jun 01 15:00:00 CEST 2015; Event: A Pavic v Salisbury; Favorite: Ante Pavic   size:5.99 Price: 1.25 Joe Salisbury   size:59.37 Price: 4.4 
+Sport: Tennis; Time: Mon Jun 01 11:00:00 CEST 2015; Event: Michon v Staubert; Favorite: Axel Michon   size:95.4 Price: 1.25 Pavel Staubert   size:2.79 Price: 4.4 
+Sport: Tennis; Time: Mon Jun 01 12:00:00 CEST 2015; Event: Q Wang v Dart; Favorite: Qiang Wang   size:2.55 Price: 1.25 Harriet Dart   size:2.02 Price: 4.5 
+Sport: Tennis; Time: Mon Jun 01 15:30:00 CEST 2015; Event: Rodionova/Rodionova v Makarova/Vesnina; Favorite: Makarova/Vesnina   size:75.22 Price: 1.26 Rodionova/Rodionova   size:4.45 Price: 4.1 
+Sport: Snooker; Time: Mon Jun 01 20:00:00 CEST 2015; Event: Wakelin v Taubman; Favorite: Chris Wakelin   size:9.8 Price: 1.26 Alex Taubman   size:2.65 Price: 3.45 
+Sport: Tennis; Time: Mon Jun 01 12:30:00 CEST 2015; Event: Albot/Rosol v Bolelli/Fognini; Favorite: Bolelli/Fognini   size:73.47 Price: 1.27 Albot/Rosol   size:2.5 Price: 3.65 
+Sport: Soccer; Time: Mon Jun 01 19:00:00 CEST 2015; Event: Vasteras SK v Dalkurd FF; Favorite: Dalkurd FF   size:3.95 Price: 1.27 The Draw   size:2.0 Price: 6.4 Vasteras SK   size:5.27 Price: 8.4 
+Sport: Soccer; Time: Mon Jun 01 13:30:00 CEST 2015; Event: Metallurg Kuzbass v FK Tom Tomsk II; Favorite: Metallurg Kuzbass   size:2.55 Price: 1.27 The Draw   size:3.56 Price: 4.1 FK Tom Tomsk II   size:2.61 Price: 5.6 
+Sport: Tennis; Time: Mon Jun 01 14:00:00 CEST 2015; Event: Bencic/Siniakova v MattekSands/Safarova; Favorite: MattekSands/Safarova   size:4.47 Price: 1.28 Bencic/Siniakova   size:2.55 Price: 3.3 
+Sport: Soccer; Time: Mon Jun 01 13:00:00 CEST 2015; Event: Army Utd v Pattaya Utd; Favorite: Army Utd   size:24.39 Price: 1.28 The Draw   size:4.15 Price: 5.9 Pattaya Utd   size:4.93 Price: 8.4 
+Sport: Tennis; Time: Mon Jun 01 14:00:00 CEST 2015; Event: Hsieh/Pennetta v Husarova/Kania; Favorite: Hsieh/Pennetta   size:2.76 Price: 1.28 Husarova/Kania   size:16.87 Price: 3.1 

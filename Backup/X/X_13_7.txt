@@ -1,0 +1,2 @@
+1.120620877, Sport: ,Tennis, Time: ,Sun Sep 13 11:00:00 CEST 2015, Time: ,Sun Sep 13 11:00:00 CEST 2015, Event: ,Ivashka v Numajiri, Favorite: ,Ilya Ivashka, 8304047   size:580.93,Price: ,1.18,Keisuke Numajiri, 8997147   size:29.15,Price: ,4.8,
+1.120632478, Sport: ,Tennis, Time: ,Sun Sep 13 11:30:00 CEST 2015, Time: ,Sun Sep 13 11:30:00 CEST 2015, Event: ,Dodig v Langer, Favorite: ,Ivan Dodig, 2835266   size:6.63,Price: ,1.35,Nils Langer, 7066939   size:6.25,Price: ,3.25,

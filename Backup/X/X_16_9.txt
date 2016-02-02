@@ -1,0 +1,13 @@
+Sport: Basketball; Time: Sat May 16 11:00:00 CEST 2015; Event: Brgy Ginebra v Blackwater Elite; Favorite: Brgy Ginebra   size:6.41 Price: 1.12 Blackwater Elite   size:8.0 Price: 7.6 
+Sport: Handball; Time: Sat May 16 19:00:00 CEST 2015; Event: Flensburg Handewitt v Lemgo; Favorite: Flensburg Handewitt   size:2.69 Price: 1.14 Lemgo   size:69.05 Price: 9.6 Draw   size:68.95 Price: 13.0 
+Sport: Handball; Time: Sat May 16 20:00:00 CEST 2015; Event: Helvetia Anaitasuna v Puerto Sagunto; Favorite: Helvetia Anaitasuna   size:5.67 Price: 1.14 Puerto Sagunto   size:69.05 Price: 9.6 Draw   size:4.95 Price: 15.5 
+Sport: Basketball; Time: Sat May 16 17:30:00 CEST 2015; Event: Juventus v Zalgiris; Favorite: Zalgiris   size:2.55 Price: 1.16 Juventus   size:3.3 Price: 4.6 
+Sport: Mixed Martial Arts; Time: Sat May 16 16:00:00 CEST 2015; Event: Mousasi v Philippou; Favorite: Gegard Mousasi   size:7.86 Price: 1.17 Costas Philippou   size:42.44 Price: 5.3 
+Sport: Basketball; Time: Sat May 16 18:30:00 CEST 2015; Event: Chalon Saone v Cholet; Favorite: Chalon Saone   size:114.69 Price: 1.19 Cholet   size:2.55 Price: 5.2 
+Sport: Mixed Martial Arts; Time: Sat May 16 16:00:00 CEST 2015; Event: Edgar v Faber; Favorite: Frankie Edgar   size:68.69 Price: 1.21 Urijah Faber   size:4.37 Price: 4.7 
+Sport: Basketball; Time: Sat May 16 15:30:00 CEST 2015; Event: Kolossus Rhodes v Panathinaikos; Favorite: Panathinaikos   size:382.69 Price: 1.23 Kolossus Rhodes   size:2.55 Price: 4.6 
+Sport: Basketball; Time: Sat May 16 18:30:00 CEST 2015; Event: Nanterre v Dijon; Favorite: Nanterre   size:266.74 Price: 1.26 Dijon   size:3.65 Price: 4.1 
+Sport: Basketball; Time: Sat May 16 18:30:00 CEST 2015; Event: Valencia v Bilbao; Favorite: Valencia   size:5.0 Price: 1.27 Bilbao   size:12.11 Price: 4.2 
+Sport: Basketball; Time: Sat May 16 20:00:00 CEST 2015; Event: Angers v Orchies; Favorite: Orchies   size:2.55 Price: 1.27 Angers   size:3.47 Price: 4.0 
+Sport: Basketball; Time: Sat May 16 21:00:00 CEST 2015; Event: Andorra v Rio Natura Monbus; Favorite: Andorra   size:5.0 Price: 1.27 Rio Natura Monbus   size:2.55 Price: 4.1 
+Sport: Basketball; Time: Sat May 16 18:00:00 CEST 2015; Event: AEK Athens v Aris; Favorite: AEK Athens   size:35.1 Price: 1.29 Aris   size:2.55 Price: 3.95 

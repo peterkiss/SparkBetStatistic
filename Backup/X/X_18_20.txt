@@ -1,0 +1,3 @@
+1.119574693, Sport: ,Tennis, Time: ,Sat Jul 18 21:45:00 CEST 2015, Time: ,Sat Jul 18 21:45:00 CEST 2015, Event: ,Aubone v Monette, Favorite: ,Jean-Yves Aubone, 8476686   size:2.63,Price: ,1.16,Samuel Monette, 9625808   size:2.86,Price: ,5.1,
+1.119569814, Sport: ,Tennis, Time: ,Sat Jul 18 20:32:00 CEST 2015, Time: ,Sat Jul 18 20:32:00 CEST 2015, Event: ,Caruso v Giannessi, Favorite: ,Alessandro Giannessi, 5829494   size:85.06,Price: ,1.27,Salvatore Caruso, 8257868   size:16.31,Price: ,3.9,
+1.119574690, Sport: ,Tennis, Time: ,Sat Jul 18 21:45:00 CEST 2015, Time: ,Sat Jul 18 21:45:00 CEST 2015, Event: ,Kryvonos v Racz, Favorite: ,Nikita Kryvonos, 8395347   size:5.71,Price: ,1.29,Christopher Racz, 9712867   size:7.0,Price: ,3.6,

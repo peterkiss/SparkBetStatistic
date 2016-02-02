@@ -1,0 +1,2 @@
+1.120319773, Sport: ,Tennis, Time: ,Sat Aug 29 06:45:00 CEST 2015, Time: ,Sat Aug 29 06:45:00 CEST 2015, Event: ,K Stevenson v Whittington, Favorite: ,Andrew Whittington, 8172414   size:4.42,Price: ,1.16,Kelsey Stevenson, 7689565   size:6.88,Price: ,6.4,
+1.120171817, Sport: ,Basketball, Time: ,Sat Aug 29 04:00:00 CEST 2015, Time: ,Sat Aug 29 04:00:00 CEST 2015, Event: ,San Antonio @ Seattle, Favorite: ,Seattle, 13130   size:2.67,Price: ,1.57,San Antonio, 13121   size:4.6,Price: ,2.58,

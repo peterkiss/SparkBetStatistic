@@ -1,0 +1,2 @@
+1.119087902, Sport: ,Basketball, Time: ,Sun Jun 07 20:00:00 CEST 2015, Time: ,Sun Jun 07 20:00:00 CEST 2015, Event: ,Partizan v Metalac, Favorite: ,Partizan, 266286   size:2.0,Price: ,1.08,Metalac, 7735981   size:72.28,Price: ,6.0,
+1.118925178, Sport: ,Basketball, Time: ,Sun Jun 07 21:00:00 CEST 2015, Time: ,Sun Jun 07 21:00:00 CEST 2015, Event: ,Connecticut @ Atlanta, Favorite: ,Atlanta, 13114   size:436.83,Price: ,1.16,Connecticut, 332194   size:5.22,Price: ,5.9,

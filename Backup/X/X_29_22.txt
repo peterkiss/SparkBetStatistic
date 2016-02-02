@@ -1,0 +1,2 @@
+1.120304830, Sport: ,Baseball, Time: ,Sun Aug 30 01:10:00 CEST 2015, Time: ,Sun Aug 30 01:10:00 CEST 2015, Event: ,NYY v ATL, Favorite: ,NY Yankees (L Severino), 10115947   size:349.0,Price: ,1.52,Atlanta (M Wisler), 9647265   size:312.0,Price: ,2.78,
+1.120171824, Sport: ,Basketball, Time: ,Sun Aug 30 01:00:00 CEST 2015, Time: ,Sun Aug 30 01:00:00 CEST 2015, Event: ,Chicago @ Atlanta, Favorite: ,Chicago, 13117   size:208.52,Price: ,1.63,Atlanta, 13114   size:2.44,Price: ,2.56,

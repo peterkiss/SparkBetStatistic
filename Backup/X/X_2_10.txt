@@ -1,0 +1,26 @@
+Sport: Tennis; Time: Tue Jun 02 14:30:00 CEST 2015; Event: Fucsovics v Vesely; Favorite: Jiri Vesely   size:3.15 Price: 1.11 Marton Fucsovics   size:3.0 Price: 7.0 
+Sport: Tennis; Time: Wed Jun 03 04:00:00 CEST 2015; Event: Soeda v Nedunchezhiyan; Favorite: Go Soeda   size:13.45 Price: 1.12 Jeevan Nedunchezhiyan   size:7.53 Price: 6.6 
+Sport: Soccer; Time: Tue Jun 02 18:00:00 CEST 2015; Event: Sillamae Kalev v Parnu Linnameeskond; Favorite: Sillamae Kalev   size:19.93 Price: 1.15 The Draw   size:2.15 Price: 7.6 Parnu Linnameeskond   size:2.0 Price: 18.0 
+Sport: Tennis; Time: Wed Jun 03 08:45:00 CEST 2015; Event: C O'Connell v W Jang; Favorite: Christopher O'Connell   size:2.54 Price: 1.16 Woo hyeok Jang   size:4.2 Price: 5.3 
+Sport: Snooker; Time: Tue Jun 02 11:00:00 CEST 2015; Event: Burden v John; Favorite: Alfie Burden   size:297.86 Price: 1.16 David John   size:4.21 Price: 5.5 
+Sport: Tennis; Time: Wed Jun 03 10:00:00 CEST 2015; Event: Hesse v Romeo; Favorite: Amandine Hesse   size:34.65 Price: 1.18 Caroline Romeo   size:60.6 Price: 6.2 
+Sport: Tennis; Time: Tue Jun 02 12:00:00 CEST 2015; Event: Garcia Perez v Kontaveit; Favorite: Anett Kontaveit   size:3.15 Price: 1.19 Georgina Garcia-Perez   size:3.96 Price: 5.0 
+Sport: Tennis; Time: Tue Jun 02 13:45:00 CEST 2015; Event: G Escobar v Munoz-De La Nava; Favorite: Daniel Munoz-de la Nava   size:41.6 Price: 1.21 Gonzalo Escobar   size:4.49 Price: 5.3 
+Sport: Snooker; Time: Tue Jun 02 20:00:00 CEST 2015; Event: R Williams v Jennings; Favorite: Robbie Williams   size:5.93 Price: 1.21 Nick Jennings   size:3.3 Price: 5.0 
+Sport: Soccer; Time: Tue Jun 02 16:00:00 CEST 2015; Event: Ukraine U21 v Moldova U21; Favorite: Ukraine U21   size:31.46 Price: 1.22 The Draw   size:3.88 Price: 7.2 Moldova U21   size:8.94 Price: 16.5 
+Sport: Tennis; Time: Tue Jun 02 11:00:00 CEST 2015; Event: Giraldo v Copil; Favorite: Santiago Giraldo   size:1186.97 Price: 1.22 Marius Copil   size:40.25 Price: 5.2 
+Sport: Tennis; Time: Tue Jun 02 13:30:00 CEST 2015; Event: A Bai v Larcher De Brito; Favorite: Michelle Larcher de Brito   size:180.69 Price: 1.23 Alison Bai   size:4.33 Price: 4.4 
+Sport: Tennis; Time: Tue Jun 02 16:15:00 CEST 2015; Event: M Granollers v Berankis; Favorite: Marcel Granollers   size:561.93 Price: 1.23 Ricardas Berankis   size:4.67 Price: 4.3 
+Sport: Tennis; Time: Tue Jun 02 12:00:00 CEST 2015; Event: Ramos-Vinolas v Gigounon; Favorite: Albert Ramos-Vinolas   size:7.04 Price: 1.24 Germain Gigounon   size:41.45 Price: 4.8 
+Sport: Basketball; Time: Tue Jun 02 20:50:00 CEST 2015; Event: Limoges v Nancy; Favorite: Limoges   size:2.54 Price: 1.25 Nancy   size:2.54 Price: 4.5 
+Sport: Snooker; Time: Tue Jun 02 11:00:00 CEST 2015; Event: Hallworth v Nicholson; Favorite: Steven Hallworth   size:3.24 Price: 1.25 Jake Nicholson   size:153.3 Price: 4.2 
+Sport: Tennis; Time: Tue Jun 02 13:45:00 CEST 2015; Event: Marterer v And Beck; Favorite: Andreas Beck   size:14.1 Price: 1.25 Maximilian Marterer   size:20.51 Price: 4.8 
+Sport: Tennis; Time: Tue Jun 02 12:00:00 CEST 2015; Event: Q Wang v Zander; Favorite: Qiang Wang   size:12.69 Price: 1.26 Nina Zander   size:4.54 Price: 4.4 
+Sport: Tennis; Time: Tue Jun 02 15:30:00 CEST 2015; Event: Krawietz v Coppejans; Favorite: Kimmer Coppejans   size:14.71 Price: 1.26 Kevin Krawietz   size:4.71 Price: 4.2 
+Sport: Tennis; Time: Tue Jun 02 15:30:00 CEST 2015; Event: B Mitchell v Groth; Favorite: Sam Groth   size:8.46 Price: 1.27 Benjamin Mitchell   size:10.82 Price: 3.85 
+Sport: Soccer; Time: Tue Jun 02 20:00:00 CEST 2015; Event: FC Infonet v Paide Linnameeskond; Favorite: FC Infonet   size:2.22 Price: 1.27 The Draw   size:5.03 Price: 6.2 Paide Linnameeskond   size:3.91 Price: 10.5 
+Sport: Tennis; Time: Wed Jun 03 10:00:00 CEST 2015; Event: Kanepi v Sasnovich; Favorite: Kaia Kanepi   size:2.55 Price: 1.28 Aliaksandra Sasnovich   size:2.55 Price: 3.9 
+Sport: Baseball; Time: Wed Jun 03 01:05:00 CEST 2015; Event: TOR @ WSH (Game 2); Favorite: Washington (M Scherzer)   size:2.64 Price: 1.29 Toronto (M Estrada)   size:2.94 Price: 3.1 
+Sport: Rugby Union; Time: Tue Jun 02 16:30:00 CEST 2015; Event: Ireland U20 v Argentina U20; Favorite: Ireland U20   size:6.2 Price: 1.29 Argentina U20   size:27.06 Price: 4.2 Draw   size:4.43 Price: 22.0 
+Sport: Snooker; Time: Tue Jun 02 11:00:00 CEST 2015; Event: S O Sullivan v Sargeant; Favorite: Sean O Sullivan   size:7.07 Price: 1.29 Brandon Sargeant   size:92.4 Price: 4.0 
+Sport: Tennis; Time: Tue Jun 02 16:15:00 CEST 2015; Event: Klizan v Gombos; Favorite: Martin Klizan   size:2.55 Price: 1.29 Norbert Gombos   size:4.63 Price: 3.85 

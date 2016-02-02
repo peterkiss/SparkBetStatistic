@@ -1,0 +1,1 @@
+1.119753664, Sport: ,Tennis, Time: ,Fri Jul 31 00:00:00 CEST 2015, Time: ,Fri Jul 31 00:00:00 CEST 2015, Event: ,Isner v Stepanek, Favorite: ,John Isner, 2474763   size:74.17,Price: ,1.36,Radek Stepanek, 2249332   size:380.31,Price: ,3.7,

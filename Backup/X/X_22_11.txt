@@ -1,0 +1,17 @@
+Sport: Basketball; Time: Sat May 23 00:30:00 CEST 2015; Event: Obras v Ciclista (J); Favorite: Obras   size:8.36 Price: 1.11 Ciclista (J)   size:58.87 Price: 7.6 
+Sport: Soccer; Time: Fri May 22 14:00:00 CEST 2015; Event: Metalurg D (Res) v FK Hoverla (Res); Favorite: Metalurg D (Res)   size:179.3 Price: 1.12 FK Hoverla (Res)   size:9.07 Price: 13.5 The Draw   size:8.11 Price: 15.0 
+Sport: Basketball; Time: Fri May 22 20:00:00 CEST 2015; Event: Aix Maurienne v Angers; Favorite: Aix Maurienne   size:18.63 Price: 1.12 Angers   size:15.02 Price: 8.2 
+Sport: Rugby League; Time: Fri May 22 21:00:00 CEST 2015; Event: Leeds v Hull KR; Favorite: Leeds   size:5.79 Price: 1.14 Hull KR   size:4.34 Price: 6.6 Draw   size:82.04 Price: 50.0 
+Sport: Basketball; Time: Fri May 22 20:45:00 CEST 2015; Event: Bologna v Armani Milano; Favorite: Armani Milano   size:5.0 Price: 1.15 Bologna   size:52.26 Price: 6.4 
+Sport: Basketball; Time: Fri May 22 20:00:00 CEST 2015; Event: Monaco v Charleville Mezieres; Favorite: Monaco   size:2.55 Price: 1.16 Charleville Mezieres   size:2.55 Price: 5.8 
+Sport: Soccer; Time: Fri May 22 12:00:00 CEST 2015; Event: Spartak Moscow (Y) v FC Ufa (Youth); Favorite: Spartak Moscow (Y)   size:7.03 Price: 1.17 The Draw   size:17.37 Price: 6.6 FC Ufa (Youth)   size:6.26 Price: 14.0 
+Sport: Tennis; Time: Fri May 22 14:30:00 CEST 2015; Event: Konta v De Bernardi; Favorite: Johanna Konta   size:98.82 Price: 1.17 Clothilde De Bernardi   size:123.71 Price: 6.0 
+Sport: Tennis; Time: Fri May 22 13:00:00 CEST 2015; Event: T Pereira v Pous-Tio; Favorite: Teliana Pereira   size:36.0 Price: 1.17 Laura Pous-Tio   size:60.88 Price: 6.8 
+Sport: Basketball; Time: Fri May 22 20:00:00 CEST 2015; Event: Limoges v Le Havre; Favorite: Limoges   size:5.81 Price: 1.18 Le Havre   size:7.49 Price: 5.6 
+Sport: Boxing; Time: Fri May 22 18:30:00 CEST 2015; Event: Povetkin v Perez; Favorite: Alexander Povetkin   size:8.2 Price: 1.2 Mike Perez   size:4.25 Price: 6.4 Draw   size:2.32 Price: 24.0 
+Sport: Soccer; Time: Fri May 22 17:30:00 CEST 2015; Event: Honka v Ilves Kissat; Favorite: Honka   size:3.46 Price: 1.21 The Draw   size:7.07 Price: 6.6 Ilves Kissat   size:2.73 Price: 8.6 
+Sport: Cricket; Time: Fri May 22 16:00:00 CEST 2015; Event: Pakistan v Zimbabwe (1st T20); Favorite: Pakistan   size:7124.88 Price: 1.22 Zimbabwe   size:46.72 Price: 5.4 
+Sport: Soccer; Time: Fri May 22 20:00:00 CEST 2015; Event: Strasbourg v Colomiers; Favorite: Strasbourg   size:85.98 Price: 1.27 The Draw   size:2.0 Price: 6.2 Colomiers   size:11.46 Price: 11.5 
+Sport: Soccer; Time: Fri May 22 13:30:00 CEST 2015; Event: Albirex Niigata v Svay Rieng FC; Favorite: Albirex Niigata   size:37.3 Price: 1.28 The Draw   size:4.03 Price: 6.8 Svay Rieng FC   size:4.52 Price: 9.0 
+Sport: Basketball; Time: Sat May 23 02:00:00 CEST 2015; Event: Atenas v Estudiantes (C); Favorite: Atenas   size:5.81 Price: 1.29 Estudiantes (C)   size:4.55 Price: 4.0 
+Sport: Tennis; Time: Fri May 22 13:30:00 CEST 2015; Event: Vinci v Kerber; Favorite: Angelique Kerber   size:131.26 Price: 1.29 Roberta Vinci   size:42.57 Price: 4.4 

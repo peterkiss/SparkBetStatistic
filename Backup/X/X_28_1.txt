@@ -1,0 +1,2 @@
+1.120268230, Sport: ,Tennis, Time: ,Fri Aug 28 02:00:00 CEST 2015, Time: ,Fri Aug 28 02:00:00 CEST 2015, Event: ,Kubot/Nestor v Carreno Bus/Garcia-Lope, Favorite: ,Kubot/Nestor, 7082537   size:5.92,Price: ,1.33,Carreno Bus/Garcia-Lope, 9128738   size:2.55,Price: ,3.25,
+1.120267632, Sport: ,Baseball, Time: ,Fri Aug 28 01:05:00 CEST 2015, Time: ,Fri Aug 28 01:05:00 CEST 2015, Event: ,SD @ WSH, Favorite: ,Washington (J Ross), 9565218   size:623.96,Price: ,1.58,San Diego (A Cashner), 6436041   size:232.58,Price: ,2.7,

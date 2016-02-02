@@ -1,0 +1,15 @@
+Sport: Tennis; Time: Thu May 21 11:30:00 CEST 2015; Event: Gasparyan v K Zhang; Favorite: Margarita Gasparyan   size:483.89 Price: 1.12 Kai-Lin Zhang   size:11.99 Price: 6.6 
+Sport: Tennis; Time: Thu May 21 13:00:00 CEST 2015; Event: Kontaveit v De Bernardi; Favorite: Anett Kontaveit   size:71.53 Price: 1.12 Clothilde De Bernardi   size:4.23 Price: 7.6 
+Sport: Tennis; Time: Thu May 21 13:30:00 CEST 2015; Event: Doi v Kerber; Favorite: Angelique Kerber   size:3.87 Price: 1.14 Misaki Doi   size:32.25 Price: 7.8 
+Sport: Soccer; Time: Thu May 21 15:00:00 CEST 2015; Event: FC Banants Yerevan II v Gandzasar FC II; Favorite: FC Banants Yerevan II   size:22.66 Price: 1.16 The Draw   size:4.34 Price: 7.0 Gandzasar FC II   size:2.86 Price: 9.2 
+Sport: Basketball; Time: Fri May 22 03:00:00 CEST 2015; Event: Houston @ Golden State; Favorite: Golden State   size:3121.63 Price: 1.17 Houston   size:9.24 Price: 6.4 
+Sport: Basketball; Time: Thu May 21 20:00:00 CEST 2015; Event: Fenerbahce v Galatasaray; Favorite: Fenerbahce   size:5.0 Price: 1.18 Galatasaray   size:84.24 Price: 5.6 
+Sport: Tennis; Time: Thu May 21 13:00:00 CEST 2015; Event: J Donaldson v Ramanathan; Favorite: Jared Donaldson   size:7.55 Price: 1.18 Ramkumar Ramanathan   size:2.55 Price: 5.6 
+Sport: Tennis; Time: Thu May 21 10:00:00 CEST 2015; Event: B Klein v Arguello; Favorite: Facundo Arguello   size:39.62 Price: 1.22 Brydan Klein   size:25.98 Price: 5.2 
+Sport: Soccer; Time: Thu May 21 14:00:00 CEST 2015; Event: FC Viktoria Plzen U21 v 1. SC Znojmo U21; Favorite: FC Viktoria Plzen U21   size:454.8 Price: 1.22 1. SC Znojmo U21   size:21.73 Price: 6.8 The Draw   size:2.48 Price: 7.0 
+Sport: Tennis; Time: Thu May 21 10:00:00 CEST 2015; Event: A Zverev v Sijsling; Favorite: Alexander Zverev   size:121.58 Price: 1.23 Igor Sijsling   size:15.91 Price: 5.1 
+Sport: Soccer; Time: Thu May 21 18:00:00 CEST 2015; Event: Girls SA (W) v ASA Tel Aviv Uni (W); Favorite: ASA Tel Aviv Uni (W)   size:7.14 Price: 1.26 Girls SA (W)   size:2.09 Price: 4.3 The Draw   size:2.96 Price: 5.1 
+Sport: Soccer; Time: Thu May 21 16:00:00 CEST 2015; Event: Olympiakos U20 v PAOK Thessaloniki U20; Favorite: Olympiakos U20   size:6.25 Price: 1.28 The Draw   size:2.9 Price: 4.7 PAOK Thessaloniki U20   size:11.57 Price: 5.0 
+Sport: Tennis; Time: Thu May 21 10:00:00 CEST 2015; Event: Copil v J Smith; Favorite: Marius Copil   size:22.98 Price: 1.28 John Patrick Smith   size:3.23 Price: 4.3 
+Sport: Tennis; Time: Thu May 21 13:00:00 CEST 2015; Event: T Pereira v Voracova; Favorite: Teliana Pereira   size:9.48 Price: 1.29 Renata Voracova   size:8.73 Price: 4.2 
+Sport: Tennis; Time: Thu May 21 11:30:00 CEST 2015; Event: Falla v Authom; Favorite: Alejandro Falla   size:3.34 Price: 1.29 Maxime Authom   size:2.09 Price: 4.3 
